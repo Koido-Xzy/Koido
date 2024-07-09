@@ -8,7 +8,7 @@ I'm Ziyang Xu, pursuing my second-year Master's degree in the School of Electron
 
 Currently building interesting Deep Learning algorithms. Watch this space for updates.
 
-Find me here: [personal website](https://ziyangxu.top/) or read my articles here: [blog](https://www.cnblogs.com/XZyoung). Pass by and check out my: [projects & papers](https://ziyangxu.top/). You can also follow me on [bilibili](https://space.bilibili.com/11139404).
+Find me here: [personal website](https://ziyangxu.top/) or read my articles here: [blog](https://www.cnblogs.com/XZyoung). Pass by and check out my: [projects & papers](https://ziyangxu.top/).
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyoungXu&show_icons=true&theme=slateorange&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
